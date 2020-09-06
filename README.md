@@ -1,4 +1,4 @@
-# Astar-Path-Finding
+# A* Path Finding Algorithm Visualization
 
 requires pygame to run
 
