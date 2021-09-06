@@ -1,6 +1,6 @@
 # A* Path Finding Algorithm Visualization
 
-requires pygame to run
+Download th exe file (pathfinder.exe)
 
 Left click on the mouse button to draw the start, end points, and the obsatcles
 
@@ -14,6 +14,6 @@ Mouse right click on the start or finishing point moves the start or the end fin
 
 Press the space bar to sart the path finding process and wait for the magic to happen
   
-Right click to remove the drawn ponts
+Right click to remove the drawn points
 
 Press c to clear the whole screen
