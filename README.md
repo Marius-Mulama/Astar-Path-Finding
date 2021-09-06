@@ -1,6 +1,8 @@
 # A* Path Finding Algorithm Visualization
 
-Download th exe file (pathfinder.exe)
+Download the exe file (pathfinder.exe)
+
+Run the file
 
 Left click on the mouse button to draw the start, end points, and the obsatcles
 
